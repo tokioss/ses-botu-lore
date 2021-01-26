@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["387966548268023808", "207806613384462336"],
+        "ACTIVITY_TEXT": "Akame ❤️ Lore ",
+        "GUILD_ID": "803646652383494145",
+        "VOICE_CHANNEL": "803646652849979436",
+        "MIN_STAFF_ROLE": "803646935113400320"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcom.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": "NzczOTk3NDY1NzMxODU4NDUy.X6RXUA.3OfMSXYwJ9d8CAlLmw4Ip6DCND8"
+}
